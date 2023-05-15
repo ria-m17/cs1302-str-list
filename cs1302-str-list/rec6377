@@ -1,0 +1,37 @@
+cs1302-str-list:
+total 76
+drwxr-xr-x. 3 myid    28 Feb 28 23:45 bin
+-rw-r--r--. 1 myid  4526 Feb 24 14:32 cs1302-str-list.jar
+-rw-r--r--. 1 myid 24506 Feb 22 11:15 ProjectDiagram.svg
+-rw-r--r--. 1 myid 43810 Feb 24 14:32 README.md
+-rw-r--r--. 1 myid     0 Mar  1 01:35 rec6377
+drwxr-xr-x. 3 myid    20 Feb 28 23:45 src
+
+cs1302-str-list/bin:
+total 0
+drwxr-xr-x. 3 myid 24 Feb 28 23:45 cs1302
+
+cs1302-str-list/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 109 Mar  1 01:31 p2
+
+cs1302-str-list/bin/cs1302/p2:
+total 12
+-rw-r--r--. 1 myid 2061 Mar  1 01:18 ArrayStringList.class
+-rw-r--r--. 1 myid 2069 Mar  1 00:12 BaseStringList.class
+-rw-r--r--. 1 myid 2168 Mar  1 00:47 LinkedStringList.class
+
+cs1302-str-list/src:
+total 0
+drwxr-xr-x. 3 myid 24 Feb 28 23:45 cs1302
+
+cs1302-str-list/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 106 Mar  1 01:31 p2
+
+cs1302-str-list/src/cs1302/p2:
+total 20
+-rw-r--r--. 1 myid 4577 Mar  1 01:18 ArrayStringList.java
+-rw-r--r--. 1 myid 3454 Mar  1 00:12 BaseStringList.java
+-rw-r--r--. 1 myid 4776 Mar  1 00:47 LinkedStringList.java
+/home/myid/rjm20320/cs1302-projects/cs1302-str-list:/home/myid/csci-1302
